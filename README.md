@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # csdt2223ki47lashkevycho-vd20
 
 Subject: CSDT
@@ -29,6 +28,3 @@ Students number:    20
 HW i-face:          I2C
 Game: tetris        Tetris
 Data driven format  JSON
-=======
-# csdt2223ki47lashkevych20
->>>>>>> parent of db46cce (task1)
