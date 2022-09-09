@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # csdt2223ki47lashkevycho-vd20
 
 Subject: CSDT
@@ -23,5 +24,11 @@ Task 1 - Initiate GIT repository (BEF):
   7. After the reviewer approved – merge request into develop branch.
 
 
-Student: Lashkevych Oleh-Volodymyr Dmytrovych
-Students number: 20 
+Student:            Lashkevych Oleh-Volodymyr Dmytrovych
+Students number:    20 
+HW i-face:          I2C
+Game: tetris        Tetris
+Data driven format  JSON
+=======
+# csdt2223ki47lashkevych20
+>>>>>>> parent of db46cce (task1)
