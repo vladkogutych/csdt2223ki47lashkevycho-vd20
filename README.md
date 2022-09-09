@@ -1,2 +1,1 @@
-# csdt2223ki47lashkevycho-vd20
-
+# csdt2223ki47lashkevych20
